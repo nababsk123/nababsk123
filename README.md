@@ -1,16 +1,15 @@
 Hi 👋 My name is Nabab Shaikh
 =============================
 
-FULLSTACK WEB DEVELOPER | FRONTEND DEVELOPER | REACTJS DEVELOPER
+SYSTEM ENGINEER | APPLICATION DEVELOPER 
 ----------------------------------------------------------------
 
 * 🌍  I'm based in VADODARA,INDIA
 * 🖥️  See my portfolio at [MY FULLSTACK PROJECTS](http://rococo-kringle-943d65.netlify.app/)
 * ✉️  You can contact me at [nababshaikh123@gmail.com](mailto:nababshaikh123@gmail.com)
-* 🚀  I'm currently working on [MERN STACK ECOMMERECE SITE](http://github.com/nababsk123)
+* 🚀  I'm currently working on [DATA ENGINEERING PROJECTS](http://github.com/nababsk123)
 * 🧠  I'm learning devops
 * 🤝  I'm open to collaborating on open source devops projects
-* ⚡  I want to work on three.js,webGL and ReactFiber in the future.
 
 <a href="https://www.github.com/nababsk123" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nababsk123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/nababsk0265" target="_blank" rel="noreferrer"><img
