@@ -5,7 +5,7 @@ SYSTEM ENGINEER | APPLICATION DEVELOPER
 ----------------------------------------------------------------
 
 * 🌍  I'm based in VADODARA,INDIA
-* 🖥️  See my portfolio at [MY FULLSTACK PROJECTS](http://rococo-kringle-943d65.netlify.app/)
+* 🖥️  See my portfolio at [MY FULLSTACK PROJECTS](https://github.com/nababsk123/)
 * ✉️  You can contact me at [nababshaikh123@gmail.com](mailto:nababshaikh123@gmail.com)
 * 🚀  I'm currently working on [DATA ENGINEERING PROJECTS](http://github.com/nababsk123)
 * 🧠  I'm learning devops
