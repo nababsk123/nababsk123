@@ -7,7 +7,7 @@ SYSTEM ENGINEER | Software Developer | Web Developer
 * 🌍  I'm based in VADODARA,INDIA
 * 🖥️  See my portfolio at [MY PROJECTS](https://github.com/nababsk123/)
 * ✉️  You can contact me at [nababshaikh123@gmail.com](mailto:nababshaikh123@gmail.com)
-* 🚀  I'm currently working on [DATA ENGINEERING PROJECTS](http://github.com/nababsk123)
+* 🚀  I'm currently working on [AZURE PROJECTS](http://github.com/nababsk123)
 * 🧠  I'm learning devops
 * 🤝  I'm open to collaborating on open source devops projects
 
